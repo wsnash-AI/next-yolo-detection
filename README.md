@@ -1,7 +1,7 @@
 # Next.js Real-time YOLO-based Object Detection
 
 > [!IMPORTANT]
-> Code From [real-time-object-detection-web-app](https://github.com/juanjaho/real-time-object-detection-web-app/tree/master)
+> Code From [real-time-object-detection-web-app](https://github.com/juanjaho/real-time-object-detection-web-app/tree/master)<br/>
 > Updated to work with the newest Next.js version and without PWA
 
 # Installation
