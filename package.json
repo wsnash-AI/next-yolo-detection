@@ -22,8 +22,8 @@
     "next": "14.2.3",
     "node-polyfill-webpack-plugin": "^3.0.0",
     "onnxruntime-web": "^1.17.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-webcam": "^7.0.1",
     "typescript": "4.9.4",
     "worker-loader": "^3.0.8"
