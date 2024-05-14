@@ -186,16 +186,18 @@ const Yolo = (props: any) => {
   };
 
   return (
-    <ObjectDetectionCamera
-      width={props.width}
-      height={props.height}
-      preprocess={preprocess}
-      postprocess={postprocess}
-      resizeCanvasCtx={resizeCanvasCtx}
-      session={session}
-      changeModelResolution={changeModelResolution}
-      modelName={modelName}
-    />
+    <div>
+      <ObjectDetectionCamera
+        width={props.width}
+        height={props.height}
+        preprocess={preprocess}
+        postprocess={postprocess}
+        resizeCanvasCtx={resizeCanvasCtx}
+        session={session}
+        changeModelResolution={changeModelResolution}
+        modelName={modelName}
+      />
+    </div>
   );
 };
 
