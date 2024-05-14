@@ -15,7 +15,7 @@
     "@types/react-dom": "18.0.10",
     "autoprefixer": "^10.4.13",
     "copy-webpack-plugin": "^11.0.0",
-    "jimp": "^0.16.2",
+    "jimp": "^0.22.12",
     "lodash": "^4.17.21",
     "ndarray": "^1.0.19",
     "ndarray-ops": "^1.2.2",
